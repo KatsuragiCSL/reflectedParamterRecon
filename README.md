@@ -4,7 +4,7 @@ A tool for :
 2. Test for parameters with value reflected in response
 
 # Usage
-python3 detect.py `domain` | grep 
+python3 detect.py `domain` | grep reflected
 
 # Todo
 1. Mulitithreading
